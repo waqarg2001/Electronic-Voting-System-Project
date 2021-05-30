@@ -4,6 +4,8 @@
 
 1- Electronic voting system with good user interface.
 
+2- Preview previous election results.
+
 2- Very Secure.
 
 3- No chance of rigging.
