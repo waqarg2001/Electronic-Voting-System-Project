@@ -10,7 +10,7 @@
 
 4- Connected with sqlite3.
 
-5- OTP generated for voter registration.
+5- OTP generated for voter registration (only for Gmail).
 
 6- Candidates details are displayed.
 
